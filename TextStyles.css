@@ -1,0 +1,110 @@
+.Content {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+}
+.redtext {
+	color: #FF0000;
+}
+.bluetext {
+	color: #0066FF;
+}
+.indent {
+	
+	padding-left: 12px;
+}
+.contentmedium {
+	font-size: 16px;
+	color: #3E3E3E;
+}
+.contentsm {
+	font-size: 12px;
+	color: #3E3E3E;
+}
+
+.contentmedium a {
+	color: #333333;
+	
+}.mainhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000000;
+	font-weight: bold;
+}
+.mainhead20 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #0066FF;
+	font-weight: bold;
+}
+
+.mainhead20red {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #FF0000;
+	font-weight: bold;
+}
+.largetitle{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #0066FF;
+	font-weight: bold;
+	font-style: italic;
+}
+.mainheadlarge {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #000000;
+	font-weight: bold;
+}
+/*change page stuff here*/
+
+#contentnew {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	text-indent: 25px;
+	line-height: 150%;
+}
+
+#contentnew a {
+	color: #666666;
+	text-decoration: underline;
+}
+
+#contentnew a:visited {
+	color: #CC0033;
+}
+
+#contentnew a:active {
+	color: #33FFCC;
+}
+
+#contentnew a:hover {
+	font-style: normal;
+	color: #00FF00;
+	
+}.subhead2 {
+	font-size: 16px;
+	color: #000000;
+	font-weight: bold;
+}
+#contentnew2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	text-indent: 25px;
+	line-height: 150%;
+}
+a {
+	color: #000099;
+	text-decoration: underline;
+}
+a:visited {
+	color: #000099;
+	text-decoration: underline;
+}
+a:hover {
+	color: #000099;
+	text-decoration: underline;
+	font-style: italic;	
+}
